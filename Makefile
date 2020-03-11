@@ -1,7 +1,7 @@
 default: build test
 
 fmt:
-	go fmt github.com/OctopusDeploy/go-octopusdeploy/...
+	go fmt github.com/mshetland/go-octopusdeploy/...
 
 build: enums fmt
 	go build

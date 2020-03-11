@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/OctopusDeploy/go-octopusdeploy/octopusdeploy"
+	"github.com/mshetland/go-octopusdeploy/octopusdeploy"
 	"github.com/satori/go.uuid"
 )
 

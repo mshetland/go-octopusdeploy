@@ -1,3 +1,5 @@
+github.com/OctopusDeploy/go-octopusdeploy v1.6.0 h1:r9ThVuANGkzm3noAjLF/i7LUcxQxbCJwpvn1DLwPoOA=
+github.com/OctopusDeploy/go-octopusdeploy v1.6.0/go.mod h1:maPbD8azyb2mcNN6E4SGrwiLN7XmDSML5ui+mcWR/R0=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dghubble/sling v1.1.0 h1:DLu20Bq2qsB9cI5Hldaxj+TMPEaPpPE8IR2kvD22Atg=

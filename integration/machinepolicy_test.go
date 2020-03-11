@@ -3,7 +3,7 @@ package integration
 import (
 	"testing"
 
-	"github.com/OctopusDeploy/go-octopusdeploy/octopusdeploy"
+	"github.com/mshetland/go-octopusdeploy/octopusdeploy"
 	"github.com/stretchr/testify/assert"
 )
 
